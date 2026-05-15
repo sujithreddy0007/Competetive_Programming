@@ -15,6 +15,7 @@ while i * i <= n:
 
 primes = []
 
+
 for i in range(2, n + 1):
     if sieve[i]:
         primes.append(i)
