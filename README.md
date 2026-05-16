@@ -4,4 +4,4 @@
 3. Disjoint Set union by rank method
 4. SegmentTree point update 
 5. Line Sweep Algorithm - used to maintain active intervals(start,end)
-
+6. Depth First Search (DFS)
