@@ -5,3 +5,4 @@
 4. SegmentTree point update 
 5. Line Sweep Algorithm - used to maintain active intervals(start,end)
 6. Depth First Search (DFS)
+7. Breadth First Search (BFS)
