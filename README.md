@@ -6,4 +6,5 @@
 5. Line Sweep Algorithm - used to maintain active intervals(start,end)
 6. Depth First Search (DFS)
 7. Breadth First Search (BFS)
-8. Cycle Detection in Directed Graph
+8. Cycle Detection in UnDirected Graph
+9. Cycle Detection in Directed Graph
