@@ -8,3 +8,4 @@
 7. Breadth First Search (BFS)
 8. Cycle Detection in UnDirected Graph
 9. Cycle Detection in Directed Graph
+10. Dijkstra's Algorithm
