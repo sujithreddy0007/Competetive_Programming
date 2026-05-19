@@ -21,4 +21,3 @@ class DSU:
         else:
             self.par[pv] = pu
             self.size[pu] += self.size[pv]
-obj = DSU()

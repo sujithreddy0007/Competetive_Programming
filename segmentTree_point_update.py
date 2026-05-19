@@ -41,7 +41,7 @@ class SGTree:
                 return leftAns + rightAns
         return query(0,0,self.n-1) 
 
-obj = SGTree()
+
 
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)

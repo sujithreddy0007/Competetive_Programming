@@ -20,4 +20,3 @@ class DSU :
         else:
             self.par[ulp_v] = ulp_u
             self.rank[ulp_u] += 1
-dsu = DSU()
