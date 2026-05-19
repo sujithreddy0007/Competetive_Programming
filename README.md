@@ -10,3 +10,4 @@
 9. Cycle Detection in Directed Graph
 10. Dijkstra's Algorithm
 11. BellmanFord Algorithm
+12. Krushkal Algorithm - Minimum Spanning Tree
