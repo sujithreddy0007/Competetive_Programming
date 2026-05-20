@@ -11,3 +11,4 @@
 10. Dijkstra's Algorithm
 11. BellmanFord Algorithm
 12. Krushkal Algorithm - Minimum Spanning Tree
+13. Kosaraju Algorithm - Strongly Connected Components
