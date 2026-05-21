@@ -13,3 +13,4 @@
 12. Krushkal Algorithm - Minimum Spanning Tree
 13. Prims Algorithm - Minimum Spanning Tree
 14. Kosaraju Algorithm - Strongly Connected Components
+15. Tarjans Algorithm - Strongly Connected Components
