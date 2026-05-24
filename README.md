@@ -15,3 +15,4 @@
 14. Kosaraju Algorithm - Strongly Connected Components
 15. Tarjans Algorithm - Strongly Connected Components
 17. Binomial Coefficients - NcR 
+18. Topological Sort - (dfs approach)
