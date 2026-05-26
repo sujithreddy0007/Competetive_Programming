@@ -1,5 +1,6 @@
-java.util.*;
-class Solution {
+import java.util.*;
+
+class floyd_warshall {
     public void shortestDistance(int[][] mat) {
         int n=mat.length;
         for(int i=0;i<n;i++)
