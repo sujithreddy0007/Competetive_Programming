@@ -17,3 +17,4 @@
 17. Binomial Coefficients - NcR 
 18. Topological Sort - (dfs approach)
 19. Floyd Warshall
+20. Prime Factorization
